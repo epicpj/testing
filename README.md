@@ -1,4 +1,1 @@
-testing
-=======
-
-Testing Java shit.
+console.log (15 * 4)
